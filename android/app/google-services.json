@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "818460555056",
+    "project_id": "testexamplefirebase-4d80c",
+    "storage_bucket": "testexamplefirebase-4d80c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818460555056:android:d0a4176cc05be9a981baf5",
+        "android_client_info": {
+          "package_name": "com.testexemplefirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8UkoTtpAtG6kyNHQTkGGm346tPgELfj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
